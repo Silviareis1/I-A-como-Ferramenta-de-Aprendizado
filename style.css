@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image: linear-gradient(135deg, #2980b9, #b120eb);
+}
+header {
+    background-image: url(./assets/IA.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* cobre todo o header */
+    background-position: center;
+    height: 200px;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+main {
+    padding: 20px;
+    max-width: 1000px;
+    /* largura máxima */
+    margin: 0 auto;
+    /* centraliza horizontalmente */
+    background-color: oklch(93.647% 0.00756 16.518 / 0.97);
+    border-radius: 4px;
+}
+iframe {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    height: 400;
+    border-radius: 8px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #630688;
+}
+section ul{
+    list-style-type: none; /* remove bolinhas */
+    padding-left: 0;       /* tira o espaçamento à esquerda */
+}
+footer {
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+}
+footer a img {
+    vertical-align: middle;
+    margin: 0 5px;
+}
+footer p {
+    margin: 5px 0;
+}
