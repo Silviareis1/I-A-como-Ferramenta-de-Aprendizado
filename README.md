@@ -8,8 +8,8 @@ Criar um site utilizando as tags HTML aprendidas em aula. O tema escolhido foi *
 ## Visualização do Projeto
 ![Prévia do site](./assets/screencapture-index-html-2025-08-11.png)
 
-- **Repositório no GitHub:** [https://github.com/SEU-USUARIO/seu-repositorio](https://github.com/SEU-USUARIO/seu-repositorio)  
-- **Acesse o site hospedado no GitHub Pages:** [https://SEU-USUARIO.github.io/seu-repositorio/](https://SEU-USUARIO.github.io/seu-repositorio/)
+- **Repositório no GitHub:** [https://github.com/Silviareis1/I-A-como-Ferramenta-de-Aprendizado](https://github.com/Silviareis1/I-A-como-Ferramenta-de-Aprendizado)  
+- **Acesse o site hospedado no GitHub Pages:** [https://silviareis1.github.io/I-A-como-Ferramenta-de-Aprendizado/](https://silviareis1.github.io/I-A-como-Ferramenta-de-Aprendizado/)
 
 ## Tags Utilizadas
 - `<h1>, <h2>` → títulos
