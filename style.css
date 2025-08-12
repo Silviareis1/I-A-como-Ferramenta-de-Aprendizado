@@ -25,8 +25,9 @@ main {
     /* largura máxima */
     margin: 0 auto;
     /* centraliza horizontalmente */
-    background-color: oklch(93.647% 0.00756 16.518 / 0.97);
+    /* background-color: oklch(93.647% 0.00756 16.518 / 0.97); */
     border-radius: 4px;
+    color: white;
 }
 iframe {
     display: block;
@@ -40,7 +41,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: #630688;
+    color: #f4ed1d;
 }
 section ul{
     list-style-type: none; /* remove bolinhas */
