@@ -33,6 +33,14 @@ main {
     text-align: justify;
 }
 
+<<<<<<< HEAD
+=======
+img {
+    float: right;
+    padding: 20px;
+}
+
+>>>>>>> c6258b4312a72c171d3218d7cc2284b8b7476d57
 iframe {
     display: block;
     margin: 20px auto;
