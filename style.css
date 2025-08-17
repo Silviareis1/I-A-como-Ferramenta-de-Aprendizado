@@ -5,6 +5,7 @@ body {
     line-height: 1.6;
     background-image: linear-gradient(135deg, #2980b9, #b120eb);
 }
+
 header {
     background-image: url(./assets/IA.jpg );
     background-repeat: no-repeat;
@@ -19,6 +20,7 @@ header {
     justify-content: center;
     margin-bottom: 10px;
 }
+
 main {
     padding: 20px;
     max-width: 1000px;
@@ -28,7 +30,14 @@ main {
     /* background-color: oklch(93.647% 0.00756 16.518 / 0.97); */
     border-radius: 4px;
     color: white;
+    text-align: justify;
 }
+
+img {
+    float: right;
+    padding: 20px;
+}
+
 iframe {
     display: block;
     margin: 20px auto;
@@ -36,17 +45,23 @@ iframe {
     height: 400;
     border-radius: 8px;
 }
+
 a {
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
     color: #f4ed1d;
 }
-section ul{
-    list-style-type: none; /* remove bolinhas */
-    padding-left: 0;       /* tira o espaçamento à esquerda */
+
+section ul {
+    list-style-type: none;
+    /* remove bolinhas */
+    padding-left: 0;
+    /* tira o espaçamento à esquerda */
 }
+
 footer {
     color: white;
     text-align: center;
@@ -54,10 +69,12 @@ footer {
     font-size: 14px;
     background-image: linear-gradient(135deg, #2980b9, #b120eb);
 }
+
 footer a img {
     vertical-align: middle;
     margin: 0 5px;
 }
+
 footer p {
     margin: 5px 0;
 }
